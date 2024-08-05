@@ -1,0 +1,12 @@
+#to-do-button {
+  background-color: rgb(77, 77, 74);
+
+  color: rgb(236, 229, 229);
+
+  cursor: pointer;
+}
+
+#to-do-button :hover {
+  opacity: 30%;
+  background-color: rgb(150, 146, 141);
+}
